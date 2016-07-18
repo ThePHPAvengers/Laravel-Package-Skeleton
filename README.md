@@ -71,3 +71,6 @@ Twitter: @jkirkby91
 
 add a gulp/grunt script to server a local webserver showing coverage dashboard
 add bower/npm/grunt scaffolds
+=======
+# Laravel-Package-Skeleton
+Skeleton Boilerplate for Laravel packages/service providers
